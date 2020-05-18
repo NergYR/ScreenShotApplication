@@ -1,1 +1,1 @@
-"# ScreenShotApplication" 
+# ScreenShotApplication
